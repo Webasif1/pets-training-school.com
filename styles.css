@@ -899,7 +899,7 @@ a{
 } */
 input[type="text"],
 input[type="email"]{
-  color: #ffff;
+  color: #000000;
   width: 100%;
   font-size: 16px;
   line-height: 20px;
@@ -916,7 +916,7 @@ input[type="email"]{
 }
 
 textarea {
-  color: #ffff;
+  color: #000000;
   font-size: 16px;
   font-weight: 500;
   line-height: 20px;
