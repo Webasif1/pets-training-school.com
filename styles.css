@@ -19,7 +19,7 @@ a{
 }
 
 .container{
-  width: 1200px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 :root{
@@ -206,7 +206,7 @@ a{
 }
 .hero-section-image{
   float: right;
-  width: 60%;
+  width: 55%;
   z-index: -1;
 }
 .hero-heading-text{
